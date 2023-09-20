@@ -1,0 +1,42 @@
+table, th, td{
+    height: 300px;
+    width: 800px;
+    border: 1px solid black ;
+}
+.abc{
+    width: 300px;
+    height: 20px;  
+    margin-left: 30px;
+    margin-bottom: 40px; 
+    font-size: large;
+    
+}
+.ab th{
+    max-width: 300px;
+    height: 20px;
+    margin:auto ;
+    
+}
+
+.def{
+    height: 20px;
+    width: 300px;
+    
+}
+
+.xyz{
+    width: 300px;
+    height: 20px;
+    margin-left: 30px;
+    
+}
+.you{
+    height: 40px;
+    padding-left: 30px;
+}
+
+.ghi{
+    height: 20px;
+    color: white;
+    background-color: black;
+}
